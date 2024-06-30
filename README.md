@@ -1,3 +1,6 @@
+### 🌐 Try it out:
+Experience the game live at: https://online-game-iota.vercel.app
+
 
 ### 📖 Rules
 
@@ -19,4 +22,22 @@ https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/e8ebd
 
 https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/da7c5b56-8840-4a3e-a65f-8ecce05a2276
 
+## 🚀 Getting Started
 
+### Installation
+
+Clone the repository:
+``` bash
+git clone https://github.com/YassineIdiri/ExpressJS_Backend_OnlineGame.git
+cd ExpressJS_Backend_OnlineGame
+```
+
+Install dependencies:
+```bash
+npm install
+```
+
+ Start the development server:
+```bash
+npm start
+```
