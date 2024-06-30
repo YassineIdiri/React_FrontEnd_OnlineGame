@@ -1,20 +1,22 @@
 
 ### 📖 Rules
-https://github.com/YassineIdiri/React_ExpressJS_OnlineGame/assets/120946916/af3a4b5b-88ba-4986-947e-fe4f9a71b9c0
 
+https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/898db210-de66-4fcd-b3a3-4d6c9c6c4732
 
 ### 🔐 Login and Registration
 
-https://github.com/YassineIdiri/React_ExpressJS_OnlineGame/assets/120946916/b448db2a-7a6c-45fe-89fc-9889ebf8a054
+https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/962fc94d-623d-4fd1-b6a6-0c26a4ef2c31
 
 ### 🏆 Exemple of win
 
-https://github.com/YassineIdiri/React_ExpressJS_OnlineGame/assets/120946916/dfc6c413-2669-4bb8-ad35-94f8df7d12a3
+https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/36f88246-d0e7-4868-ac18-6f0ed46d54d3
 
 ### ❌ Exemple of lose
 
-https://github.com/YassineIdiri/React_ExpressJS_OnlineGame/assets/120946916/3a147b87-b9cc-403f-a18a-047854c8de88
+https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/e8ebd97f-f0f1-471f-b5fd-79955165ccad
 
 ### 📄 Profile page
 
-https://github.com/YassineIdiri/React_ExpressJS_OnlineGame/assets/120946916/ebc49f50-4027-4676-9d5e-8141edd493af
+https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/da7c5b56-8840-4a3e-a65f-8ecce05a2276
+
+
