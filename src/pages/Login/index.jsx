@@ -22,9 +22,7 @@ const Login = ({ connexion, setConnexion }) => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        console.log('Email:', email, 'Password:', password);
-
-        axios.post('http://localhost:8081/login', { email, password })
+        axios.post('https://backend-online-game.vercel.app/login', { email, password })
             .then(res => {
                 if (res.data.message === 'Login success') {
                     localStorage.setItem('connexion', JSON.stringify(true)); // Sauvegarder l'état de connexion dans le localStorage

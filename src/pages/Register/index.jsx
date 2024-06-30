@@ -27,7 +27,7 @@ const Register = () => {
         e.preventDefault();
         console.log('Name:', name, 'Password:', password);
 
-        axios.post('http://localhost:8081/register', { name, password })
+        axios.post('https://backend-online-game.vercel.app/register', { name, password })
             .then(res => {
                 console.log(res.data);
                 if (res.data.message === 'Registration successful') {

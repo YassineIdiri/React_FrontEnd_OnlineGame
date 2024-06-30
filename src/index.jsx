@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter as Router, Route, Routes, Navigate  } from 'react-router-dom';
-import Header from './components/Header';
+import Header from './pages/Header';
 import Register from './pages/Register';
 import Login from './pages/Login';
 import ProfilePage from './pages/ProfilePage';
 import Grid from './pages/Grid';
-import Error from './components/Error';
 import './style.css';
 
 const App = () => {

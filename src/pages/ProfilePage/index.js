@@ -14,7 +14,7 @@ const ProfilePage = () => {
 
     useEffect(() => {
         // Fetch number of wins
-        fetch('http://localhost:8081/win', {
+        fetch('https://backend-online-game.vercel.app/win', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -26,7 +26,7 @@ const ProfilePage = () => {
         .catch(error => console.error('Error fetching wins:', error));
 
         // Fetch number of losses
-        fetch('http://localhost:8081/lose', {
+        fetch('https://backend-online-game.vercel.app/lose', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -38,7 +38,7 @@ const ProfilePage = () => {
         .catch(error => console.error('Error fetching losses:', error));
 
         // Fetch game history
-        fetch('http://localhost:8081/history', {
+        fetch('https://backend-online-game.vercel.app/history', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
