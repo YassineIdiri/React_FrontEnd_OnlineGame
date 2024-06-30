@@ -28,8 +28,8 @@ https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/da7c5
 
 Clone the repository:
 ``` bash
-git clone https://github.com/YassineIdiri/ExpressJS_Backend_OnlineGame.git
-cd ExpressJS_Backend_OnlineGame
+git clone https://github.com/YassineIdiri/React_FrontEnd_OnlineGame.git
+cd React_FrontEnd_OnlineGame
 ```
 
 Install dependencies:
