@@ -2,7 +2,7 @@
 Experience the game live at: https://online-game-iota.vercel.app
 
 
-### 📖 Rules
+### 📖 Rulesh
 
 https://github.com/YassineIdiri/React_FrontEnd_OnlineGame/assets/120946916/898db210-de66-4fcd-b3a3-4d6c9c6c4732
 
