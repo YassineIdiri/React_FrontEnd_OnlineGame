@@ -1,3 +1,24 @@
+<div align="center">
+
+  ## Online Game
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js" />
+  </a>
+</p>
+
+
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/YassineIdiri/React_FrontEnd_OnlineGame.svg)
+![Commits](https://img.shields.io/github/commit-activity/m/YassineIdiri/React_FrontEnd_OnlineGame.svg)
+![Languages](https://img.shields.io/github/languages/top/YassineIdiri/React_FrontEnd_OnlineGame.svg)
+
+</div>
+
+
 ### 🌐 Try it out:
 Experience the game live at: https://online-game-iota.vercel.app
 
