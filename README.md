@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js" />
+    <img src="https://skillicons.dev/icons?i=react,js,webpack" />
   </a>
 </p>
 
